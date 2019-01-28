@@ -373,5 +373,5 @@ This work is based on [Blades in the Dark](http://www.bladesinthedark.com/), pro
 ## Changelog
 
 ### 1.0.0
-#### 2019-01-27
+#### 2018-12-07
 * inital release
