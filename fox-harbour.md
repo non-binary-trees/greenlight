@@ -1,3 +1,6 @@
+---
+layout: palette
+---
 # Palette
 
 **Introduction**
