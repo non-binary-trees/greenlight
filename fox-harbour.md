@@ -1,5 +1,7 @@
 # Palette
 
+**Introduction**
+
 Fox Harbour is an idyllic town nestled in the protected waters of it's namesake. The people are hard-working, they carry on the traditions of their past. The waters are bountiful, they provide everything that residents might need.
 
 The town is on an island, the only point on the map. The town is large enough that most residents don't know each other by name but, small enough to note an unfamiliar face. The island is large enough that none have seen it's entirety but, small enough that someone has seen everything.
@@ -10,6 +12,8 @@ But, something is wrong... the traditions of the past are not as wholesome as so
 
 - - -
 
+**Spotlight**
+
 Choose a **Scenario** or **Plan**. Ask the group to choose the other. Whichever chooses should follow the directions on the card.
 
 Choose an **Action**. Follow the directions on the card.
@@ -18,6 +22,7 @@ Pass this card to the next player.
 
 - - -
 
+**Backstory**
 Describe the first time the audience sees your character, include one **Character** or **Location** not already chosen. Place that card in front of you.
 
 Choose a **Plan** to describe a previous encounter with the next player's **Character**.
