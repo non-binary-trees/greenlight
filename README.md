@@ -361,6 +361,8 @@ A very special thanks to my playtesters!
 * Cam Beman
 * Min Lee
 * Bach Dang 
+* Dinh Truong
+* Eugene Dozier
 
 ## Legal Stuff
 
