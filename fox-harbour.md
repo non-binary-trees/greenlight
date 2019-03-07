@@ -15,8 +15,6 @@ Each weekend during tourist season, the population swells as visitors wash over 
 
 But, something is wrong... the traditions of the past are not as wholesome as some wish to remember and, more than fish comes out from the waters.
 
-- - -
-
 **Spotlight**
 
 Choose a **Scenario** or **Plan**. Ask the group to choose the other. Whichever chooses should follow the directions on the card.
@@ -24,8 +22,6 @@ Choose a **Scenario** or **Plan**. Ask the group to choose the other. Whichever 
 Choose an **Action**. Follow the directions on the card.
 
 Pass this handout to the next player.
-
-- - -
 
 **Backstory**
 
