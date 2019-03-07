@@ -1,6 +1,8 @@
 ---
 layout: palette
 ---
+# Palette
+
 ## Handouts
 
 **Introduction**
