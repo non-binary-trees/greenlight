@@ -3,6 +3,8 @@ layout: palette
 ---
 # Palette
 
+## Handouts
+
 **Introduction**
 
 Fox Harbour is an idyllic town nestled in the protected waters of it's namesake. The people are hard-working, they carry on the traditions of their past. The waters are bountiful, they provide everything that residents might need.
@@ -21,7 +23,7 @@ Choose a **Scenario** or **Plan**. Ask the group to choose the other. Whichever 
 
 Choose an **Action**. Follow the directions on the card.
 
-Pass this card to the next player.
+Pass this handout to the next player.
 
 - - -
 
@@ -33,7 +35,7 @@ Choose a **Plan** to describe a previous encounter with the next player's **Char
 
 Ask the next player to choose an **Action** to describe the encounter of your **Characters**.
 
-Pass this card to the next player.
+Pass this handout to the next player.
 
 ## Actions
 
