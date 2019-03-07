@@ -30,7 +30,7 @@
 
 ## Actions
 
-*  **Carouse**, drink plentiful amounts of alcohol and enjoy oneself with others in a noisy, lively way.
+* **Carouse**, drink plentiful amounts of alcohol and enjoy oneself with others in a noisy, lively way.
 
 * **Incite**, encourage or stir up (violent or unlawful behavior).
 
