@@ -23,6 +23,7 @@ Pass this card to the next player.
 - - -
 
 **Backstory**
+
 Describe the first time the audience sees your character, include one **Character** or **Location** not already chosen. Place that card in front of you.
 
 Choose a **Plan** to describe a previous encounter with the next player's **Character**.
