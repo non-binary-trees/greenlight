@@ -6,8 +6,53 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {% seo %}
-  <style class="anchorjs"></style>
+  <style class="anchorjs"></style>  
   <link rel="stylesheet" href="/greenlight/assets/css/style.css">
+  <style>
+  @media print {
+      @page {
+        size: landscape;
+      }
+      
+      .markdown-body {
+        margin: 0 !important;
+        padding: 0 !important;
+      }
+
+      .markdown-body h1,h2 {
+        display: none;
+      }
+
+      .markdown-body hr {
+        height: 0;
+        border: none;
+        border-top: dashed gray 1px;
+      }
+
+      .markdown-body > ul {
+        columns: 63mm;
+        column-gap: 0;
+        column-rule-width: 0;
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+        break-inside: avoid;
+      }
+
+      .markdown-body > ul > li {
+        height: 88mm;
+        display: block;
+        box-sizing: border-box;
+        margin-left: 9mm;
+        margin-bottom: 9mm;
+        border-radius: 5mm;
+        padding: 5mm;
+        border: solid gray 1mm;
+        break-inside: avoid;
+        overflow: hidden;
+      }
+    }
+  </style>
 </head>
 <body>
 <div class="container-lg px-3 my-5 markdown-body">{{ content }}</div>
