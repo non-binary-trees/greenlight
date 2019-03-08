@@ -42,6 +42,7 @@ Ask the next player to choose an **Action** to describe the encounter of your **
   *encourage or stir up (violent or unlawful behavior).*
 
 * **Obscure**
+
   *keep from being seen; conceal. make unclear and difficult to understand.*
 
 * **Panic**
