@@ -35,23 +35,48 @@ Pass this handout to the next player.
 
 ## Actions
 
-* **Carouse**, drink plentiful amounts of alcohol and enjoy oneself with others in a noisy, lively way.
+* **Carouse**
+  drink plentiful amounts of alcohol and enjoy oneself with others in a noisy, lively way.
 
-* **Incite**, encourage or stir up (violent or unlawful behavior).
+* **Incite**
+  *encourage or stir up (violent or unlawful behavior).*
 
-* **Obscure**, keep from being seen; conceal. make unclear and difficult to understand.
+* **Obscure**
+  *keep from being seen; conceal. make unclear and difficult to understand.*
 
-* **Panic**, feel sudden uncontrollable fear or anxiety, often causing wildly unthinking behavior.
+* **Panic**
+  *feel sudden uncontrollable fear or anxiety, often causing wildly unthinking behavior.*
 
-* **Snoop**, investigate or look around furtively in an attempt to find out something, especially information about one's private affairs.
+* **Snoop**
+  *investigate or look around furtively in an attempt to find out something, especially information about one's private affairs.*
 
-* **Threaten**, state one's intention to take hostile action against someone in retribution for something done or not done.
+* **Threaten**
+  *state one's intention to take hostile action against someone in retribution for something done or not done.*
 
 ## Plans
 
-* **Jibe**, Go with the flow. *detail: the thing pushing you (choose a location or character)* 
+* **Jibe**
+  *Go with the flow.*
+  
+  If you haven't dealt with the **Scenario**, do that first.
 
-* **Tack**, Fight the current. *detail: the thing you push (choose a location or character)* 
+  Have the spotlight player take one **Controlled** **Position** card. If there are no more cards of that type, change the **Plan**.
+
+  Answer these questions for the spotlight character.
+  * What's pushing you?
+  * What is about to go wrong?
+  
+
+* **Tack**
+  *Fight the current.*
+    
+  If you haven't dealt with the **Scenario**, do that first.
+
+  Have the spotlight player take one **Desperate** **Position** card. If there are no more cards of that type, change the **Plan**.
+
+  Answer these questions for the spotlight character.
+  * What are you pushing?
+  * What went wrong?
 
 ## Scenarios
 
