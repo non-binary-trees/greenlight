@@ -17,11 +17,11 @@ But, something is wrong... the traditions of the past are not as wholesome as so
 
 **Spotlight**
 
-Choose a **Scenario** or **Plan**. Ask the group to choose the other. Whichever chooses should follow the directions on the card.
+Choose a **Scenario** or ask the group to choose one. That group answers the questions. Place the **Scenario** in your timeline.
 
-Choose an **Action**. Follow the directions on the card.
+The other group, choose a **Plan**. That group answers the questions. Take the **Position** indicated on your **Plan**. If that **Position** is unavailable get a new **Plan**.
 
-Pass this handout to the next player.
+Choose an **Action**. Answer the questions.
 
 **Backstory**
 
@@ -30,8 +30,6 @@ Describe the first time the audience sees your character, include one **Characte
 Choose a **Plan** to describe a previous encounter with the next player's **Character**.
 
 Ask the next player to choose an **Action** to describe the encounter of your **Characters**.
-
-Pass this handout to the next player.
 
 ## Actions
 
@@ -55,26 +53,18 @@ Pass this handout to the next player.
 
 ## Plans
 
-* **Jibe**
+* **Jibe** Controlled
+
   *Go with the flow.*
   
-  If you haven't dealt with the **Scenario**, do that first.
-
-  Have the spotlight player take one **Controlled** **Position** card. If there are no more cards of that type, change the **Plan**.
-
-  Answer these questions for the spotlight character.
   * What's pushing you?
   * What is about to go wrong?
   
 
-* **Tack**
+* **Tack** Desperate
+
   *Fight the current.*
     
-  If you haven't dealt with the **Scenario**, do that first.
-
-  Have the spotlight player take one **Desperate** **Position** card. If there are no more cards of that type, change the **Plan**.
-
-  Answer these questions for the spotlight character.
   * What are you pushing?
   * What went wrong?
 
