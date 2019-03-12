@@ -1,7 +1,7 @@
 ---
 layout: palette
 ---
-# Palette
+# Fox Harbour, A Greenlit Game.
 
 ## Handouts
 
