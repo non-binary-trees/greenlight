@@ -298,4 +298,3 @@ Ask the next player to choose an **Action** to describe the encounter of your **
 
 	* What lays below?
 	* Who's approaching without caution?
-	
